@@ -49,3 +49,6 @@ Highlights from the Foreward, Preface, and Chapter 1: What Is JavaScript?
 - Backward vs Foreward compatibility.
 - JS is Complied language
 - try use "strict" mode more....
+
+### Jay
+- Nice intro but I have some questions on some history.
